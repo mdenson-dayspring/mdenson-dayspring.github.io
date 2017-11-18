@@ -1,0 +1,25 @@
+---
+layout: post
+title: Playing with a Nanode
+date: 2012-01-07 23:12:46.000000000 -08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- electronics
+- Projects
+tags: []
+meta:
+  _edit_last: '2543921'
+  switch_like_status: '1'
+  delicious: a:3:{s:5:"count";i:0;s:9:"post_tags";s:0:"";s:4:"time";i:1352683048;}
+author: Matthew
+---
+<p>Today I spent some time playing with a Christmas gift.</p>
+<p>I purchased a <a title="Nanode kit" href="http://wickeddevice.com/index.php?main_page=product_info&amp;cPath=26&amp;products_id=102" target="_blank">Nanode kit from Wicked Device</a> and it arrived this week. The Nanode is an Arduino with an integrated ethernet jack. So it can be used to put web server, or any discreet network service on the internet, without running a server all the time.</p>
+<p>Today I spent assembling and trying out stuff. This is actually my first Arduino of any flavor so I spend some time blinking and fading leds and generally dinking around.</p>
+<p>After a bit I decided to try one of the projects that I actually had in mind for this thing. I wrote a quick sketch that implements a very simple web server (something that is very simple with the libraries provided).  And if a particular url is requested a wake-on-lan magic package is broadcast on the LAN here and my server is powered up. So now I can start up my linux box from anywhere by browsing to a specific url. Cool! I no longer need to leave it on an guzzle power so it can sit there doing nothing. (The Nanode can run all the time on orders of magnitude less power.)</p>
+<p>For those interested in the details I posted the code as a <a title="Wake-On-Lan Arduino/Nanode sketch" href="https://gist.github.com/1577502" target="_blank">gist</a>.</p>
+<p>I'm sure more will follow.</p>
