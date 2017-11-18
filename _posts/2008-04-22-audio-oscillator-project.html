@@ -1,0 +1,37 @@
+---
+layout: post
+title: Audio Oscillator Project
+date: 2008-04-22 21:15:03.000000000 -07:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Projects
+tags:
+- electronics
+- emrfd
+- ham radio
+- oscillator
+meta:
+  _edit_last: '2543921'
+  delicious: a:3:{s:5:"count";i:0;s:9:"post_tags";s:0:"";s:4:"time";i:1354715067;}
+author: Matthew
+---
+<p>Lately I've been loading some of the earliest <a href="http://www.soldersmoke.com/">SolderSmoke</a> episodes into my mp3 player.  I've really been enjoying them.  In the very first, Bill mentioned that he was warming up the soldering iron because he just felt like making something and melting some solder.  With that in mind this weekend, I decided that I was just going to build something.</p>
+<p>So I opened up EMRFD and turned to chapter 7, which I knew had some simple projects like oscillators, rf probes, watt meters, etc.  I came down on the simple one frequency audio oscillator (page 7.13, Fig 7.24) that they wrote was useful for testing audio sections of a radio.  (Keeps you from having to whistle in the the mic.)  Since I am aspiring to one day building a reciever from scratch, and maybe even an SSB transmitter I figured I'd give it a shot.</p>
+<p>I've never built anything in the "true" ugly style with a plain groundplane.  I also decided to begin the project with the end in mind, connectors and controls.  In the case it was pretty simple.  A pot for output level and an output jack of some kind.  So, I also added the flange at the beginning. Here is a picture of what I ended up with.  I think it compares to the photo in EMRFD, if I say so myself :) ).</p>
+<p><img class="aligncenter size-medium wp-image-10" src="{{ site.baseurl }}/assets/p4220009_edited.jpg?w=300" alt="530 Hz Audio Oscillator" width="300" height="214" /></p>
+<p>This is actually the first sine wave oscillator I've ever successfully built.  In the past I've always had to fall back on the 555 timer square wave oscillator.</p>
+<p>Since I didn't have the capacitors used in the EMRFD version, and because they wrote that it could be built with whatever was on hand, I decided to use four of the 22nF ceramic disc capacitors from my junk box.  Beyond that I didn't know how to substitute my capacitors into the design.  I knew that this was a phase shift oscillator that worked by feeding an inverting amplifier with a feedback loop made of a phase shifting RC network. And that to oscillate, the network needed to shift the phase of a particular frequency an additional 180 degrees. But how did I pick resistors to select a frequency?</p>
+<p>I found a <a href="http://www.aikenamps.com/PhaseShiftOscillators.html">web site</a> that talked about this and used an equation from it.  f=1/(2*pi*R*C)  Being young and dumb I took the equation and rearranged it to find R and slapped my values in: R = 1/(2*pi*1200Hz*22nF).  Using my trusty calculator I found that roughly R=6k Ohms. I selected 5.6 as the standard value resistor and started building.  (Note if you are reading this to figure out how to substitute in your own capacitors that this did not work.  You can see on the photo that I ended up with an oscillator for 530Hz, not 1200Hz that I was shooting for.)</p>
+<p>I built the oscillator in a hour or two plugged in the battery and got nothing.  No voltage (AC or DC) at the output.  Bummer!  I checked the DC voltages and resistances of the various nodes and nothing seemed amiss.  Still no output.  Well it was getting late so I slept on it.</p>
+<p>The next day I searched the web again and struck gold.  I found an <a href="http://www.freepatentsonline.com/3670254.html">oscillator design</a> that had a small section talking about adjustment of the emitter resistance to get the least distortion.  It said to adjust the resistance so it was just below the resistance that would stop oscillation.  Ok, now I had something the try.  My emitter resistance was 10k Ohms.  I used a jumper with clips to add an 18k resistor in parallel and it worked!  I played with the resistor value and ended up adding a 22k resistor in parallel for 6.8k Ohms total or so.</p>
+<p>A sine wave.!I could hear it!  Seemed a little low though.</p>
+<p>I plugged the output into my computer's "mic in" and fired up <a href="http://www.visualizationsoftware.com/gram.html">Spectrogram</a> and <a href="http://zeitnitz.de/Christian/Scope/Scope_en.html">Soundcard Scope</a>.  Yep it was nice and clean with the second harmonic about 32dB down from the primary.  But the primary frequency was 530Hz.  Why?</p>
+<p>On further reading it appears that I should have used the equation f=1/(2*pi*sqrt(6)*R*C) which is further down on the first site.  However, that would actually make the error worse, wouldn't it?  I compared schematics between EMRFD and the web site and found that EMRFD had one more capacitor in the phase shift network.  I shorted out that last capacitor with a jumper and ... killed the oscillations.</p>
+<p>So I don't know exactly what is happening, but I suspect that the two problems I've had are related.</p>
+<p>Anyone got any ideas?  I'm all ears.</p>
+<p>UPDATE 4/25/08:  I've drawn up a schematic as of the oscillator as built;  Here it is:</p>
+<p><img class="aligncenter size-full wp-image-11" src="{{ site.baseurl }}/assets/audio-osc-schematic.gif" alt="" width="400" height="322" /></p>
