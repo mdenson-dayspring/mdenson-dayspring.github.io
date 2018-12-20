@@ -30,9 +30,10 @@ So back to distinctiveness. What makes us distinct?
 
 - Maybe it's because Jesus loves us? Let's see.
 
-> "For God so loved the __world__ _(Ooh! guess not.)_ that he 
-> gave his only Son, so that everyone who believes in him may 
-> not perish but may have eternal life.
+> "For God so loved the __world__ _(Ooh! guess not.)_ 
+> that he gave his only Son, so that everyone who 
+> believes in him may not perish but may have eternal 
+> life.
 
 Enter John 3:16.  Let me just read through the rest of Jesus's paragraph.
 
