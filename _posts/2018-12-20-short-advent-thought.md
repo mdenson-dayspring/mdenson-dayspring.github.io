@@ -30,23 +30,23 @@ So back to distinctiveness. What makes us distinct?
 
 - Maybe it's because Jesus loves us? Let's see.
 
-    "For God so loved the __world__ _(Ooh! guess not.)_ that he 
-	gave his only Son, so that everyone who believes in him may 
-	not perish but may have eternal life.
+> "For God so loved the __world__ _(Ooh! guess not.)_ that he 
+> gave his only Son, so that everyone who believes in him may 
+> not perish but may have eternal life.
 
 Enter John 3:16.  Let me just read through the rest of Jesus's paragraph.
 
-    "Indeed, God did not send the Son into the world to condemn 
-	the world, but in order that the world might be saved through 
-	him. Those who believe in him are not condemned; but those who 
-	do not believe are condemned already, because they have not 
-	believed in the name of the only Son of God. And this is the 
-	judgement, that the light has come into the world, and people 
-	loved darkness rather than light because their deeds were evil. 
-	For all who do evil hate the light and do not come to the light, 
-	so that their deeds may not be exposed. But those who do what is 
-	true come to the light, so that it may be clearly seen that their 
-	deeds have been done in God.
+> "Indeed, God did not send the Son into the world to condemn 
+> the world, but in order that the world might be saved through 
+> him. Those who believe in him are not condemned; but those who 
+> do not believe are condemned already, because they have not 
+> believed in the name of the only Son of God. And this is the 
+> judgement, that the light has come into the world, and people 
+> loved darkness rather than light because their deeds were evil. 
+> For all who do evil hate the light and do not come to the light, 
+> so that their deeds may not be exposed. But those who do what is 
+> true come to the light, so that it may be clearly seen that their 
+> deeds have been done in God.
 
 There is so much in that paragraph. It is so full of depth and richness, and is frankly beyond me even with an infinite amount of time.  
 
