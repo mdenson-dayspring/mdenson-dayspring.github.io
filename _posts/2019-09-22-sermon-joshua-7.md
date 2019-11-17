@@ -22,6 +22,13 @@ Christ died for our sin
 Joshua 7:1-6, 10-13, 16-26   
 1 John 2:1-6
 
+<audio controls>
+  <source src="http://docs.google.com/uc?export=open&id=1_1iTccb3X_c8GFBP4t-B6hbUkPkTZpes" type="audio/mpeg">
+  <!-- fallback for non supporting browsers goes here -->
+  <p>Your browser does not support HTML5 audio, but you can still 
+     <a href="https://drive.google.com/uc?authuser=0&id=1_1iTccb3X_c8GFBP4t-B6hbUkPkTZpes&export=download">download the recording</a>.</p>
+</audio>
+
 Last week, Galen preached from three parables about God seeking for the lost. We saw a shepherd leaving 99 sheep in the field to search for one lost sheep, a woman searching for a lost coin, and a father seeking his two sons. We heard that the lost ARE sought for by God. I will remember when Galen suggested that it was because the shepherd left the 99 to seek the one that is the reason that those 99 should feel secure. Because if it had been one of them, he would have done the same.
 
 I hope that by the end of my sermon that it will be evident that I really am following up on Galen’s sermon. It may not look like that right away. Last week we heard that “Yes, God does seek for the lost.” Today I want to spend time looking at “How” God seeks the lost, and how big a deal it is; how immense is the Gospel, the Good News.
@@ -183,3 +190,4 @@ _[90 seconds]_
 
 Praise the Lord! Praise the Lord, oh my soul! My sins are forgiven! The curse is removed from my body! Jesus has paid the price for my sin and he joyfully embraces me as adopted brother. Grace Fellowship, Praise the Lord! Rejoice! Grace Fellowship, our sins are forgiven! Hallelujah!
 
+*Preached at Grace Fellowship Community Church on September 22, 2019.*
