@@ -39,7 +39,10 @@ In chapter 1 Matthew provides a genealogy, placing Jesus in the line of King Dav
 
 For our first pass through the story, I’d like to concentrate on how the author is concerned that the reader understand the providence of God. That is, everything that happened happened because it was what God wanted to happen. Last time I preached I brought in a paragraph from the Cumberland Presbyterian Confession of Faith. I’m going to do that again today. By saying we are Cumberland Presbyterians we are saying that we believe:
 
-    1.14 God ordinarily exercises providence through the events of nature and history, using such instruments as persons, laws, and the scriptures, yet remains free to work with them or above them. The whole creation remains open to God’s direct activity.
+    1.14 God ordinarily exercises providence through the events of nature and history, 
+	using such instruments as persons, laws, and the scriptures, yet remains free to 
+	work with them or above them. The whole creation remains open to God’s direct 
+	activity.
 
 So, some shorthand phrases I use often for this are “God is Lord of creation” and “The church is God’s idea” and one I’m trying to use more “If the Lord wills, I will ….” 
 
