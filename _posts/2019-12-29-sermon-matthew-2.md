@@ -23,10 +23,11 @@ Hebrews 2:10-18
 Matthew 2:13-23  
 
 <audio controls>
-  <source src="http://docs.google.com/uc?export=open&id=1L4Dky0odch7GjJKcMwNlfMpXeqcqPaRV" type="audio/mpeg">
+  <source src="https://mdenson-audio-files.s3.amazonaws.com/sermons/20191229.mp3" type="audio/mpeg">
+  <source src="https://mdenson-audio-files.s3.amazonaws.com/sermons/20191229.ogg" type="audio/ogg">
   <!-- fallback for non supporting browsers goes here -->
   <p>Your browser does not support HTML5 audio, but you can still 
-     <a href="https://drive.google.com/uc?authuser=0&id=1L4Dky0odch7GjJKcMwNlfMpXeqcqPaRV&export=download">download the recording</a>.</p>
+     <a href="https://mdenson-audio-files.s3.amazonaws.com/sermons/20191229.mp3">download the recording</a>.</p>
 </audio>
 
 Merry Christmas! It is the fifth day of Christmas tide. What did my true love give to me, five golden rings? Well the lectionary gave us this gospel text, that just oozes Christmas cheer, heh? Thanks. Nothing says Christmas quite like families taking refuge in a foreign land and massacres of innocent children by tyrants. But, this is the text we are given for this week. So, now that we’ve gotten this dissonance out in the open, let’s see what is here, and maybe even, just maybe, we can adjust our understanding of Christmas.

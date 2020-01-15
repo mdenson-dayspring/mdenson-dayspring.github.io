@@ -23,10 +23,11 @@ Joshua 7:1-6, 10-13, 16-26
 1 John 2:1-6
 
 <audio controls>
-  <source src="http://docs.google.com/uc?export=open&id=1_1iTccb3X_c8GFBP4t-B6hbUkPkTZpes" type="audio/mpeg">
+  <source src="https://mdenson-audio-files.s3.amazonaws.com/sermons/20190922.mp3" type="audio/mpeg">
+  <source src="https://mdenson-audio-files.s3.amazonaws.com/sermons/20190922.ogg" type="audio/ogg">
   <!-- fallback for non supporting browsers goes here -->
   <p>Your browser does not support HTML5 audio, but you can still 
-     <a href="https://drive.google.com/uc?authuser=0&id=1_1iTccb3X_c8GFBP4t-B6hbUkPkTZpes&export=download">download the recording</a>.</p>
+     <a href="https://mdenson-audio-files.s3.amazonaws.com/sermons/20190922.mp3">download the recording</a>.</p>
 </audio>
 
 Last week, Galen preached from three parables about God seeking for the lost. We saw a shepherd leaving 99 sheep in the field to search for one lost sheep, a woman searching for a lost coin, and a father seeking his two sons. We heard that the lost ARE sought for by God. I will remember when Galen suggested that it was because the shepherd left the 99 to seek the one that is the reason that those 99 should feel secure. Because if it had been one of them, he would have done the same.
