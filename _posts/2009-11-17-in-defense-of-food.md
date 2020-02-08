@@ -10,7 +10,7 @@ status: publish
 categories:
 - Reflections
 tags:
-- books
+- Books
 author: Matthew
 ---
 I found the time we spent in [Genesis 1](http://bible.oremus.org/?passage=Genesis+1) to be so 

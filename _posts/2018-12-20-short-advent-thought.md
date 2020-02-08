@@ -10,7 +10,7 @@ status: publish
 categories:
 - Reflections
 tags:
-- advent
+- Advent
 author: Matthew
 ---
 During the last year I've been pondering what exactly makes the Church, capital "C", distinctive from the world. Or said differently what sanctifies us, that is, what sets us apart - makes us holy if you will. This is actually something that I think about regularly, you may have even had a conversation about this with me in the past. But it has been more raw in the last year.

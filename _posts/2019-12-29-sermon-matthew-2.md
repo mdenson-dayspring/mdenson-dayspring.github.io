@@ -8,11 +8,11 @@ published: true
 password: ''
 status: publish
 categories:
-- Sermon
+- Sermons
 tags:
-- sermon
-- gfcc
-- matthew-2
+- Sermon
+- GFCC
+- Matt 2
 author: Matthew
 ---
 Title:  

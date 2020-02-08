@@ -8,12 +8,12 @@ published: true
 password: ''
 status: publish
 categories:
-- Sermon
+- Sermons
 tags:
-- sermon
-- gfcc
-- joshua-7
-- 1-john-2
+- Sermon
+- GFCC
+- Josh 7
+- 1 John 2
 author: Matthew
 ---
 Title:  

@@ -10,7 +10,7 @@ status: publish
 categories:
 - Reflections
 tags:
-- lent`
+- Lent
 author: Matthew
 ---
 This was a lenton Mediation I gave to my congregation in early 2016. My texts were:

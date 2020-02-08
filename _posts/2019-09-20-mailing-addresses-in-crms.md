@@ -10,7 +10,7 @@ status: publish
 categories:
 - Software
 tags:
-- work
+- Work
 author: Matthew
 ---
 This is a little different for a post from me. This one is more of an observation about the use of Customer Relationship Management (CRM) tools.
