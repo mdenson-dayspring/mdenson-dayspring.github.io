@@ -173,3 +173,5 @@ Do you ever ask how can God let that evil happen? I do. But the answer is not a 
 The question is not will the Kingdom of God come. The question is will I be in the Kingdom? Will I take the step put before me each time, regardless of the evil around me that makes the step look foolish or irresponsible to those who give that evil more honor or fear than it deserves.
 
 Grace Fellowship, take Joseph’s example to heart. Get into the habit of taking the steps God puts in front of you without delay. Put in the practice so when big steps come you will be ready. Know that God is good and he is bringing the Kingdom of God to us. Live joyfully in that knowledge and point out to everyone around you God’s works of salvation that you see today. Take the next right step, not because your step will save the world, but because Jesus already is saving the world.
+
+*Preached at Grace Fellowship Community Church on December 29, 2019.*
