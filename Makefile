@@ -5,13 +5,13 @@ down:
 	docker-compose -f docker/docker-compose.yml down
 
 build:
-	docker run --rm -it -v `pwd`:/srv/jekyll -v `pwd`/vendor/bundle:/usr/local/bundle jekyll/jekyll:3.8 jekyll build
+	docker-compose -f docker/docker-compose.yml run --rm jekyllproc jekyll build --watch
 
-build-watch:
-	docker run --rm -it -v `pwd`:/srv/jekyll -v `pwd`/vendor/bundle:/usr/local/bundle jekyll/jekyll:3.8 jekyll build --watch
+build-once:
+	docker-compose -f docker/docker-compose.yml run --rm jekyllproc jekyll build
 
 bundle-install:
-	docker run --rm -it -v `pwd`:/srv/jekyll -v `pwd`/vendor/bundle:/usr/local/bundle jekyll/jekyll:3.8 bundle install
+	docker-compose -f docker/docker-compose.yml run --rm jekyllproc bundle install
 
 bundle-update:
-	docker run --rm -it -v `pwd`:/srv/jekyll -v `pwd`/vendor/bundle:/usr/local/bundle jekyll/jekyll:3.8 bundle update
+	docker-compose -f docker/docker-compose.yml run --rm jekyllproc bundle update

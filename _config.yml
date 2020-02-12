@@ -33,6 +33,7 @@ exclude:
   - Gemfile.lock
   - docker
   - Makefile
+  - .env
   - node_modules
   - vendor/bundle/
   - vendor/cache/
