@@ -1,0 +1,22 @@
+
+.category {
+    width: 100%;
+    ul {
+        margin: 0 0 0 1rem;
+    }
+    li {
+        list-style-type: none;
+        margin-bottom: 0.4rem;
+    }
+    li:last-child {
+        margin-bottom: 0;
+    }
+    a {
+        font-size: 1.2rem;
+    }
+    em {
+        color: grey;
+        display: block;
+        margin-left: 1rem;
+    }
+}
