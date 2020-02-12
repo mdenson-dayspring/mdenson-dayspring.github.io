@@ -1,0 +1,23 @@
+/**
+ * Paragraph formatting styles
+ */
+.printparagraph {
+    text-indent: 2rem;
+    margin-bottom: 0;
+}
+.nospacing {
+    margin-bottom: 0;
+}
+
+.level0 {
+    margin-left: 1rem;
+}
+.level1 {
+    margin-left: 2rem;
+}
+.level2 {
+    margin-left: 3rem;
+}
+.hanging {
+    text-indent: -1rem;
+}
