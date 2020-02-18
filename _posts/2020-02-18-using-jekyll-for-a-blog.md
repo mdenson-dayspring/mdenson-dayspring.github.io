@@ -1,11 +1,13 @@
 ---
-published: false
+published: true
 categories:
   - Reflections
 tags:
   - blogging
   - jekyll
 author: Matthew
+layout: post
+type: post
 ---
 ## Using Jekyll for this Blog
 
