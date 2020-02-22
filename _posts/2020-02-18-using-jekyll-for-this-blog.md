@@ -1,7 +1,7 @@
 ---
 published: true
 categories:
-  - Reflections
+  - Software
 tags:
   - blogging
   - jekyll
@@ -9,8 +9,6 @@ author: Matthew
 layout: post
 type: post
 ---
-## Using Jekyll for this Blog
-
 I wanted to talk briefly about how this site is maintained.
 
 For the last number of years I've been hosting this site on GitHub Pages. This is a free product of GitHub that allows someone to host static pages on the internet and has changed over time to include custom domain names and HTTPS with custom names.  I have found for my purposes that this provides everything I need.
