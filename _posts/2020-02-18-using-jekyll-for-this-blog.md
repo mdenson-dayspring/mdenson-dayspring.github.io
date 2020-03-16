@@ -19,6 +19,8 @@ The main downside to Jekyll is that it is geared towards developers like me. THe
 
 This was no problem for me, and I've been happily using it. This last weekend, though, I looked to see if there was a remedy this lack of usability for regular people. I have been looking to use Jekyll and GitHub Pages to host another site that will not always have me editing the content.
 
-What I've found, and what I am using right now is a tool called prose.io. This tool is Jekyll aware and give me a way to create draft posts, use a tool bar for editing the Markdown. Provides a preview and seems to be pretty nice to use.
+What I've found, and what I am using right now is a tool called prose.io. 
+
+This tool is Jekyll aware and give me a way to create draft posts, use a tool bar for editing the Markdown. Provides a preview and seems to be pretty nice to use.
 
 I'll keep using it and write later about my experience over time.

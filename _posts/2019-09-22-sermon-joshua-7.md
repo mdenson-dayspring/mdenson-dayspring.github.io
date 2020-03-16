@@ -99,7 +99,7 @@ My response to this is, at least, they turned to the right place. The people are
 
 Then Joshua prays and God responds! He says:
 
-**<sup>10</sup> … “Rise up! Why is it that you have fallen on your face? <sup>11</sup> Israel has sinned, and they have also transgressed My covenant which I commanded them. And they have even taken some of the things under the ban and have both stolen and deceived.”
+**<sup>10</sup> … “Rise up! Why is it that you have fallen on your face? <sup>11</sup> Israel has sinned, and they have also transgressed My covenant which I commanded them. And they have even taken some of the things under the ban and have both stolen and deceived.”**
 
 And he continues:
 
