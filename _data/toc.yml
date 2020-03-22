@@ -1,0 +1,8 @@
+docs_list_title: Top Nav
+docs:
+
+- title: Posts by Category
+  url: /blog/categories/
+
+- title: Texts
+  url: /texts/

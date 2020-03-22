@@ -1,0 +1,25 @@
+body.landing {
+    font-family: Arial,Verdana,sans-serif;
+    margin: .75rem 1.5rem;
+  .main {
+    font-size: 2rem;
+    color:#888;
+    line-height:3rem;
+    margin: 0;
+  }
+  @media screen and (max-width: 800px) {
+    .main {
+      font-size: 1.5rem;
+      line-height: 2rem;
+    }
+  }
+  .title {
+    color:#000;
+  }
+  a {
+    color: #336699;
+  }
+  a:visited {
+    color: #551a8b;
+  }
+}

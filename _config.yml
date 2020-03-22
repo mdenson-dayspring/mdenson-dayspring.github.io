@@ -19,6 +19,8 @@ email: matthew@densons.org
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about my current projects and reading.
 baseurl: "" # the subpath of your site, e.g. /blog
+environment: production
+google_analytics: UA-161518205-1
 url: "https://matthew.densons.org" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
