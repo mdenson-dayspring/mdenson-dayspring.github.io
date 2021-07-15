@@ -4,5 +4,8 @@ docs:
 - title: Posts by Category
   url: /blog/categories/
 
+- title: Sermons
+  url: /blog/sermons/
+
 - title: Texts
   url: /texts/

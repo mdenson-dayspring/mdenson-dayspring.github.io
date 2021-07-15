@@ -16,12 +16,10 @@ tags:
   - isaiah 6
 author: Matthew
 ---
-Title:  
-“What Does Fear Mean?”
-
 Psalm 29  
 Psalm 46  
-Isaiah 6:1-7
+Isaiah 6:1-7 
+<!--more-->
 
 So I needed a place to put down some thoughts. These are not a complete thought but really just a reflection today, Sunday, March 15, 2020.
 

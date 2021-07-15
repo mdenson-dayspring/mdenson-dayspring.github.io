@@ -11,16 +11,15 @@ categories:
 - Sermons
 tags:
 - Sermon
-- GFCC
+- location: Grace Fellowship, SF, CA (Sep 22, 19)
+- location: Holiness Fellowship, PA, WA (Feb 14, 21)
 - Josh 7
 - 1 John 2
 author: Matthew
 ---
-Title:  
-Christ died for our sin
-
 Joshua 7:1-6, 10-13, 16-26   
 1 John 2:1-6
+<!--more-->
 
 <audio controls>
   <source src="https://mdenson-audio-files.s3.amazonaws.com/sermons/20190922.mp3" type="audio/mpeg">

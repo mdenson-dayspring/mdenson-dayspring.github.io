@@ -1,0 +1,28 @@
+---
+layout: default
+title: Sermons
+---
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{% assign posts = site.categories.Sermons %}
+<div>
+  {% for p in posts %}
+    <section class="sermon-excerpt">
+      <h2><a href="{{ p.url }}">{{ p.title }}</a></h2>
+      <div class="post-meta">
+        <ul>
+        {% for t in p.tags %}
+          {% if t.location %}
+            <li>{{ t.location }}</li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+      <div class="excerpt">
+        {{ p.excerpt }}
+      </div>
+    </section>
+  {% endfor %}
+</div>

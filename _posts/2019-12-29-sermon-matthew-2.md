@@ -11,16 +11,15 @@ categories:
 - Sermons
 tags:
 - Sermon
-- GFCC
+- location: Grace Fellowship, SF, CA (Dec 29, 19)
+- location: Holiness Fellowship, PA, WA (Dec 27, 20)
 - Matt 2
 author: Matthew
 ---
-Title:  
-“The Reason for the Season - Why Jesus Came”
-
 Isaiah 63:7-9  
 Hebrews 2:10-18  
 Matthew 2:13-23  
+<!--more-->
 
 <audio controls>
   <source src="https://mdenson-audio-files.s3.amazonaws.com/sermons/20191229.mp3" type="audio/mpeg">
